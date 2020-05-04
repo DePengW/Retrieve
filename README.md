@@ -1,6 +1,8 @@
 # Retrieve
 项目包含：语音转文字；人脸识别；行人识别；检索四个模块
-项目内容介绍：[参考](https://blog.csdn.net/weixin_42028608/article/details/104376282)
+
+
+项目内容详细介绍：[参考](https://blog.csdn.net/weixin_42028608/article/details/104376282)
 
 ## 环境配置
 参考：requirement.sh
